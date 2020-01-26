@@ -9,9 +9,6 @@ body {
     margin-top: 0;
 }
 
-.container{
-}
-
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -22,16 +19,17 @@ body {
 }
 
 .body-container{
-    /* background-color: red; */
     display: flex;
     padding-top: 15px;
     justify-content: center;
 }
+
 .viewbox{
     pointer-events: none; 
     display: block; 
     height: 100%;
 }
+
 .div-comment1{
     font-size:100%;
     background-color: rgb(255, 255, 255); 
