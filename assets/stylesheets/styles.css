@@ -18,7 +18,7 @@ body {
   padding-top: 20px;
 }
 
-.body-container {
+.main-container {
   display: flex;
   padding-top: 15px;
   justify-content: center;
@@ -725,6 +725,12 @@ body {
   line-height: 24px;
   margin-left: 4px;
   width: 500px;
+  border: 2px solid rgb(204, 204, 204);
+  border-radius: 3px 0 0 3px;
+}
+
+svg {
+  fill: rgb(96, 96, 96);
 }
 
 .menu-button,
@@ -866,8 +872,8 @@ body {
 }
 
 .profile-thumbnail {
-  /* border-radius: 50%; */
   margin-right: 5px;
+  border-radius: 50%;
 }
 
 .first-profile-section {
