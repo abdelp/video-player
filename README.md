@@ -8,41 +8,35 @@ Use of vectors of the icon on youtube with css and all of the page it's responsi
 
 ## Built With
 
-- HTML, CSS.
+- HTML5, CSS.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/abcussi/Embedding-Images-and-Video/c116fb0deacc626796d3cec5ebb99c2261c3545a/index.html)
+[Live Demo Link](https://abdelp.github.io/video-player/)
 
 ## Authors
 
 👤 **Abdel Pérez**
 
-- Github: [@githubhandle](https://github.com/abdelp/)
-- Twitter: [@twitterhandle](https://twitter.com/abdelperez11)
-- Linkedin: [linkedin](https://www.linkedin.com/in/abdel-p%C3%A9rez-t%C3%A9llez-72b2aa153/)
+- Github: [@abdelp](https://github.com/abdelp/)
+- Twitter: [@AbdelPerez11](https://twitter.com/abdelperez11)
+- Linkedin: [Abdel Pérez](https://www.linkedin.com/in/abdel-p%C3%A9rez-t%C3%A9llez-72b2aa153/)
 
 👤 **Angel Benjamin Cussi**
 
-- Github: [@githubhandle](https://github.com/abcussi)
-- Twitter: [@twitterhandle](https://twitter.com/thecussi)
-- Linkedin: [linkedin](https://www.linkedin.com/in/angel-cussi-1b2310174/)
+- Github: [@abcussi](https://github.com/abcussi)
+- Twitter: [@thecussi](https://twitter.com/thecussi)
+- Linkedin: [Angel Cussi](https://www.linkedin.com/in/angel-cussi-1b2310174/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/abdelp/video-player/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
