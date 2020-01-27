@@ -1,0 +1,26 @@
+{
+  "name": "video_player",
+  "version": "1.0.0",
+  "description": "> This project consists of building an HTML document that matches the appearance of youtube.",
+  "main": "stylelint.config.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "stylelint": "^13.0.0",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelp/video-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelp/video-player/issues"
+  },
+  "homepage": "https://github.com/abdelp/video-player#readme"
+}
